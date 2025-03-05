@@ -1,3 +1,4 @@
-# 𝙴𝙳𝙼 | 𝙿𝙾𝚁𝚃𝙵𝙾𝙻𝙸𝙾 | 𝙰𝚒𝚏𝚊𝚑 𝙺𝚊𝚝𝚎
+# 𝑬𝑫𝑴 𝑷𝑶𝑹𝑻𝑭𝑶𝑳𝑰𝑶:  𝑨𝒊𝒇𝒂𝒉 𝑲𝒂𝒕𝒆 | 𝑰103
+> This portfolio will contain copies of my Enterprise Data Management Lab Exercises
 
-## About me! 
+## About me:
