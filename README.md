@@ -11,7 +11,7 @@ College: Bachelor of Science in COmputer Science (HAU)
 - Elementary : Don Ambrocio Mendiola Intergrated School (DAMIS)
 
 ## 𝖒𝖞 𝖕𝖗𝖔𝖏𝖊𝖈𝖙𝖘
-- Midterm Lab Task 1 :
+- Midterm Lab Task 1 : [blahblah](Midterm%20Lab%20Task%201/README.md)
 - Midterm Lab Task 2 :
 
   
