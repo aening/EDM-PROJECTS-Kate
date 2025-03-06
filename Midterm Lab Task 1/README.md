@@ -15,7 +15,7 @@
 - Mapped the Normalized tables as a Physical Data Model
 
 # 𝕾𝖙𝖊𝖕 𝟑 ✍ : Here's the screenshot of my output before I started data cleaning (See screenshot)
-
+![Midterm Lab Task 1/Screenshot 2025-03-06 181818.png]()
 
 
 
