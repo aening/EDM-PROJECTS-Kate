@@ -1,6 +1,7 @@
-
+<h1 allign="center"> Hi!💗, I'm Aifah Kate Catacutan! </h1>
 <h3 align="center">
-  Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++ and is currently self-studying Python, SQL and HTML to expand her skills. Eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects.</h3>
+Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++ and is currently self-studying Python, SQL and HTML to expand her skills. Eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects.</h3>
+ <img allign = "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/da/80/73/da80737cd181cd3731689141296de3e1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aening&label=Profile%20views&color=0e75b6&style=flat" alt="aening" /> </p>
 
