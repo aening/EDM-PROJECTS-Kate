@@ -5,7 +5,7 @@
 - Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++ and is currently self-studying Python and HTML to expand her skills. Eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects.
 
 ## 𝖊𝖉𝖚𝖈𝖆𝖙𝖎𝖔𝖓✍ 
-College: Bachelor of Science in COmputer Science (HAU)
+- College: Bachelor of Science in Information Systems (CCA)
 - Senior High School : Information and Communication Technology (SPCF)
 - Junior HIgh School : Francisco G. Nepomuceno Memorial High School (FGMNHS)
 - Elementary : Don Ambrocio Mendiola Intergrated School (DAMIS)
