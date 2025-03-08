@@ -1,7 +1,7 @@
 <h1 allign="center"> Hi!💗, I'm Aifah Kate Catacutan! </h1>
 <h3 align="center">
 Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++ and is currently self-studying Python, SQL and HTML to expand her skills. Eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects.</h3>
- <img allign = "center" alt="Coding" width="700" src="https://i.pinimg.com/originals/94/d1/7e/94d17e25dba0111b8c6f737b6083e234.gif">
+ <img allign = "center" alt="Coding" width="700" src="https://i.pinimg.com/originals/2a/93/60/2a9360380e7c22a1688edd6da3b78128.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aening&label=Profile%20views&color=0e75b6&style=flat" alt="aening" /> </p>
 
@@ -22,8 +22,8 @@ Aifah Kate Catacutan is a first-year college student passionate about programmin
 
 - ⚡ Fun fact **I always cry when my code is not working.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.facebook.com/kateacatacutan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kate catacutan" height="30" width="40" /></a>
 <a href="https://instagram.com/aeaocn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aeaocn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@xoxo.k4te" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yoomjudy" height="30" width="40" /></a>
