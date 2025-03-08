@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++ and is currently self-studying Python and HTML to expand her skills. Eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects.</h3>
+  Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++ and is currently self-studying Python, SQL and HTML to expand her skills. Eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aening&label=Profile%20views&color=0e75b6&style=flat" alt="aening" /> </p>
 
@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/kate catacutan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kate catacutan" height="30" width="40" /></a>
+<a href="[https://fb.com/kate catacutan](https://www.facebook.com/kateacatacutan28)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kate catacutan" height="30" width="40" /></a>
 <a href="https://instagram.com/aeaocn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aeaocn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yoomjudy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yoomjudy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@xoxo.k4te" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yoomjudy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
