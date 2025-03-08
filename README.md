@@ -11,7 +11,7 @@
 - Elementary : Don Ambrocio Mendiola Intergrated School (DAMIS)
 
 ## 𝖒𝖞 𝖕𝖗𝖔𝖏𝖊𝖈𝖙𝖘
-- Midterm Lab Task 1 : [Data Cleaning and Preparation using Excel]([[Midterm%20Lab%20Task%201/README.md](https://github.com/aening/EDM-PROJECTS-Kate/blob/main/Midterm%20Lab%20Task%201/README.md)](https://github.com/aening/EDM-PROJECTS-Kate/blob/fb850967dbd9267273ea5e7462bc689cfead7b98/Midterm%20Lab%20Task%201/README.md))
+- Midterm Lab Task 1 : [Data Cleaning and Preparation using Excel]([[[Midterm%20Lab%20Task%201/README.md](https://github.com/aening/EDM-PROJECTS-Kate/blob/main/Midterm%20Lab%20Task%201/README.md)](https://github.com/aening/EDM-PROJECTS-Kate/blob/fb850967dbd9267273ea5e7462bc689cfead7b98/Midterm%20Lab%20Task%201/README.md)](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%201))
 - Midterm Lab Task 2 :
 
   
