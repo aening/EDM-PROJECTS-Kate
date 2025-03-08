@@ -6,8 +6,7 @@ Aifah Kate Catacutan is a first-year college student passionate about programmin
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aening&label=Profile%20views&color=0e75b6&style=flat" alt="aening" /> </p>
 
 ## 𝖒𝖞 𝖕𝖗𝖔𝖏𝖊𝖈𝖙𝖘 💾
-- Midterm Lab Task 1 : [Data Cleaning and Preparation using Excel]([[[Midterm%20Lab%20Task%201/README.md](https://github.com/aening/EDM-PROJECTS-Kate/blob/main/Midterm%20Lab%20Task%201/README.md)](https://github.com/aening/EDM-PROJECTS-Kate/blob/fb850967dbd9267273ea5e7462bc689cfead7b98/Midterm%20Lab%20Task%201/README.md)](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%201))
-- Midterm Lab Task 2 :
+- Midterm Lab Task 1 : [Data Cleaning and Preparation using Excel](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%201)
 
 ## 𝖊𝖉𝖚𝖈𝖆𝖙𝖎𝖔𝖓✍ 
 - **College**: Bachelor of Science in Information Systems (CCA)
