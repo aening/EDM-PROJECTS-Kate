@@ -25,7 +25,7 @@ Aifah Kate Catacutan is a first-year college student passionate about programmin
 <p align="center">
 <a href="https://www.facebook.com/kateacatacutan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kate catacutan" height="30" width="40" /></a>
 <a href="https://instagram.com/aeaocn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aeaocn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@xoxo.k4te" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yoomjudy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aeningcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yoomjudy" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
