@@ -1,7 +1,7 @@
-<h3 allign="center"> Hi!💗, I'm Aifah Kate Catacutan! </h3>
-<h1 align="center">
-Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++ and is currently self-studying Python, SQL and HTML to expand her skills. Eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects.</h1>
- <img allign = "center" alt="Coding" width="700" src="https://i.pinimg.com/originals/da/80/73/da80737cd181cd3731689141296de3e1.gif">
+<h1 allign="center"> Hi!💗, I'm Aifah Kate Catacutan! </h1>
+<h4 align="center">
+Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++ and is currently self-studying Python, SQL and HTML to expand her skills. Eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects.</h4>
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aening&label=Profile%20views&color=0e75b6&style=flat" alt="aening" /> </p>
 
@@ -13,13 +13,14 @@ Aifah Kate Catacutan is a first-year college student passionate about programmin
 - **Senior High School**: Information and Communication Technology (SPCF)
 - **Junior HIgh School** : Francisco G. Nepomuceno Memorial High School (FGMNHS)
 - **Elementary**: Don Ambrocio Mendiola Intergrated School (DAMIS)
-
 ## 𝕺𝖙𝖍𝖊𝖗 𝕴𝖓𝖋𝖔𝖘 ✌
 - 🌱 I’m currently learning **Phyton, SQL, and HTML**
 
 - 📫 How to reach me **aifahkatecatacutan@gmail.comm**
 
 - ⚡ Fun fact **I always cry when my code is not working.**
+
+<img allign = "center" alt="gif" width="400" src="https://i.pinimg.com/originals/ad/ad/79/adad79ab8693e3f4d5866243ff3ef4f4.gif">
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
