@@ -1,37 +1,48 @@
-<h1 allign="center"> Hi!💗, I'm Aifah Kate Catacutan! </h1>
+<h1 align="center"> Hi! 💗 I'm Aifah Kate Catacutan! </h1>
 <h4 align="center">
-Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++ and is currently self-studying Python, SQL and HTML to expand her skills. Eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects.</h4>
- 
+Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++ and is currently self-studying Python, SQL, and HTML to expand her skills. Eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects.
+</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aening&label=Profile%20views&color=0e75b6&style=flat" alt="aening" /> </p>
-
-## 𝖒𝖞 𝖕𝖗𝖔𝖏𝖊𝖈𝖙𝖘 💾
-- Midterm Lab Task 1 : [Data Cleaning and Preparation using Excel](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%201)
-
-## 𝖊𝖉𝖚𝖈𝖆𝖙𝖎𝖔𝖓✍ 
-- **College**: Bachelor of Science in Information Systems (CCA)
-- **Senior High School**: Information and Communication Technology (SPCF)
-- **Junior HIgh School** : Francisco G. Nepomuceno Memorial High School (FGMNHS)
-- **Elementary**: Don Ambrocio Mendiola Intergrated School (DAMIS)
-## 𝕺𝖙𝖍𝖊𝖗 𝕴𝖓𝖋𝖔𝖘 ✌
-- 🌱 I’m currently learning **Phyton, SQL, and HTML**
-
-- 📫 How to reach me **aifahkatecatacutan@gmail.comm**
-
-- ⚡ Fun fact **I always cry when my code is not working.**
-
-<img allign = "center" alt="gif" width="400" src="https://i.pinimg.com/originals/ad/ad/79/adad79ab8693e3f4d5866243ff3ef4f4.gif">
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.facebook.com/kateacatacutan28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kate catacutan" height="30" width="40" /></a>
-<a href="https://instagram.com/aeaocn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aeaocn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@aeningcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yoomjudy" height="30" width="40" /></a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=aening&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## 📂 My Projects  
+- **Midterm Lab Task 1**: [Data Cleaning and Preparation using Excel](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%201)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aening&show_icons=true&locale=en" alt="aening" /></p>
+## 📚 Education  
+- **College**: Bachelor of Science in Information Systems (CCA)  
+- **Senior High School**: Information and Communication Technology (SPCF)  
+- **Junior High School**: Francisco G. Nepomuceno Memorial High School (FGMNHS)  
+- **Elementary**: Don Ambrocio Mendiola Integrated School (DAMIS)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aening&" alt="aening" /></p>
+
+<p align="center">
+  <img align="center" alt="gif" width="400" src="https://i.pinimg.com/originals/ad/ad/79/adad79ab8693e3f4d5866243ff3ef4f4.gif">
+</p>
+
+## 📬 Connect with Me  
+<p align="center">
+  <a href="https://www.facebook.com/kateacatacutan28" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/aeaocn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@aeningcodes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+</p>
+
+## 🛠 Languages and Tools  
+<p align="center"> 
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> 
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a> 
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a> 
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> 
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a> 
+</p>
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aening&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aening" alt="GitHub Streak Stats" />
+</p>
