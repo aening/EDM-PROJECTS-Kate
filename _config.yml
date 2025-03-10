@@ -1,7 +1,7 @@
-
-
-title: "Aifah Kate Catacutan"
-theme: jekyll-theme-cayman  # 
-show_downloads: true
-github:
-  is_project_page: false
+title: 
+logo: C:\Users\aifah\OneDrive\Pictures\Screenshots\Screenshot 2025-03-11 005053.png
+description: 
+show_download: true
+remote_theme: pages-themes/merlot@v0.2.0
+plugins:
+jekyll-remote-theme # add this line to the plugins list if you already have one
