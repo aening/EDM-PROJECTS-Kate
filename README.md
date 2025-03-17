@@ -9,9 +9,8 @@ Aifah Kate Catacutan is a first-year college student passionate about programmin
 
 ## 📂 My Projects  
 - **Midterm Lab Task 1**: [Data Cleaning and Preparation using Excel](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%201)
-- **Midterm Lab Task 2**: [𝐌𝐢𝐝𝐭𝐞𝐫𝐦 𝐋𝐚𝐛 𝐓𝐚𝐬𝐤 𝟐: 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐔𝐬𝐢𝐧𝐠 𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲 𝐄𝐝𝐢𝐭𝐨𝐫
-](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%201)
-- **Midterm Lab Task 3**: [Data Cleaning and Preparation using Excel](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%201)
+- **Midterm Lab Task 2**: [Data Cleaning and Transformation using Power Query Editor](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%202)
+- **Midterm Lab Task 3**: [Using Pivot Table and Create Dashboard](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%203)
 
 ## 📚 Education  
 - **College**: Bachelor of Science in Information Systems (CCA)  
