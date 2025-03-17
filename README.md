@@ -7,11 +7,6 @@ Aifah Kate Catacutan is a first-year college student passionate about programmin
   <img src="https://komarev.com/ghpvc/?username=aening&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## 📂 My Projects  
-- **Midterm Lab Task 1**: [Data Cleaning and Preparation using Excel](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%201)
-- **Midterm Lab Task 2**: [Data Cleaning and Transformation using Power Query Editor](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%202)
-- **Midterm Lab Task 3**: [Using Pivot Table and Create Dashboard](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%203)
-
 ## 📚 Education  
 - **College**: Bachelor of Science in Information Systems (CCA)  
 - **Senior High School**: Information and Communication Technology (SPCF)  
@@ -22,6 +17,11 @@ Aifah Kate Catacutan is a first-year college student passionate about programmin
 <p align="center">
   <img align="center" alt="gif" width="400" src="https://i.pinimg.com/originals/ad/ad/79/adad79ab8693e3f4d5866243ff3ef4f4.gif">
 </p>
+
+## 📂 My Projects  
+- **Midterm Lab Task 1**: [Data Cleaning and Preparation using Excel](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%201)
+- **Midterm Lab Task 2**: [Data Cleaning and Transformation using Power Query Editor](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%202)
+- **Midterm Lab Task 3**: [Using Pivot Table and Create Dashboard](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%203)
 
 ## 📬 Connect with Me  
 <p align="center">
