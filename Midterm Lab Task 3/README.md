@@ -1,4 +1,4 @@
-![DB](https://github.com/user-attachments/assets/add4bed9-0f13-49d7-a50b-9d022da10774)# **Midterm Lab Task 3 - Using Pivot Tables and Dashboards** 
+# **Midterm Lab Task 3 - Using Pivot Tables and Dashboards** 
 Create an interactive Excel dashboard using Pivot Tables and Charts to analyze Data Science job trends. Transform data using Power Query, generate insights on salary by role, state, and company size, and add slicers for interactivity. Ensure the dashboard is clear, functional, and well-organized.
 
 # ⌨️**𝕾𝖙𝖊𝖕𝖘 𝕻𝖊𝖗𝖋𝖔𝖗𝖒𝖊𝖉 𝖎𝖓 𝕮𝖗𝖊𝖆𝖙𝖎𝖓𝖌 𝕻𝖎𝖛𝖔𝖙 𝕿𝖆𝖇𝖑𝖊 𝖆𝖓𝖉 𝕯𝖆𝖘𝖍𝖇𝖔𝖆𝖗𝖉✍**
