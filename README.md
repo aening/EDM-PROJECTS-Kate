@@ -1,11 +1,19 @@
 <h1 align="center"> Hi! 💗 I'm Aifah Kate Catacutan! 💗 </h1>
 <h4 align="center">
-Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++ and is currently self-studying Python, SQL, and HTML to expand her skills. Eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects.
+Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++.She is eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects.
 </h4>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=aening&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+- 🌱 I’m currently learning **Python, SQL, and HTML**
+
+- 👨‍💻 All of my projects are available at [https://github.com/aening](https://github.com/aening)
+
+- 📫 How to reach me **aifahkatecatacutan@gmail.com**
+
+- ⚡ Fun fact **I'm addicted to Buldak Korean Noodles >.<**
 
 ## 📚 Education  
 - **College**: [CCA](https://www.cca.edu.ph/?fbclid=IwY2xjawJHIWxleHRuA2FlbQIxMAABHcfHcDLQvGQ6ZO2W34nWO0-rLE2qhVYmLc8-z9SFkflFZbBCDBNOp4ZHcA_aem_jUm0GdZaytKSINaEQo9uCA) - Bachelor of Science in Information Systems 
@@ -49,4 +57,5 @@ Aifah Kate Catacutan is a first-year college student passionate about programmin
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aening" alt="GitHub Streak Stats" />
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aening" alt="aening" /></a> </p>
     
