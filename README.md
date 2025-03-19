@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="200" src="https://media.tenor.com/jLam8PP1bRoAAAAM/game-gamer.gif"  />
+</div>
 <h1 align="center"> Hi! 💗 I'm Aifah Kate Catacutan! 💗 </h1>
 <h4 align="center">
 Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++.She is eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects.
@@ -57,5 +60,5 @@ Aifah Kate Catacutan is a first-year college student passionate about programmin
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aening" alt="GitHub Streak Stats" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aening" alt="aening" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aening" alt="aening" /></a> </p>
     
