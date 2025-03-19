@@ -8,10 +8,10 @@ Aifah Kate Catacutan is a first-year college student passionate about programmin
 </p>
 
 ## 📚 Education  
-- **College**: Bachelor of Science in Information Systems (CCA)  
-- **Senior High School**: Information and Communication Technology (SPCF)  
-- **Junior High School**: Francisco G. Nepomuceno Memorial High School (FGMNHS)  
-- **Elementary**: Don Ambrocio Mendiola Integrated School (DAMIS)  
+- **College**: [CCA](https://www.cca.edu.ph/?fbclid=IwY2xjawJHIWxleHRuA2FlbQIxMAABHcfHcDLQvGQ6ZO2W34nWO0-rLE2qhVYmLc8-z9SFkflFZbBCDBNOp4ZHcA_aem_jUm0GdZaytKSINaEQo9uCA) - Bachelor of Science in Information Systems 
+- **Senior High School**: [SPCF](https://www.spcf.edu.ph/) - Information and Communication Technology 
+- **Junior High School**: [FGNMHS](https://www.facebook.com/fgnmhs92/) -Francisco G. Nepomuceno Memorial High School
+- **Elementary**:[DAMIS](https://www.facebook.com/DAMISOfficialPage) - Don Ambrocio Mendiola Integrated School
 
 
 <p align="center">
