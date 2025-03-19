@@ -3,9 +3,8 @@
 </div>
 <h1 align="center"> Hi! 💗 I'm Aifah Kate Catacutan! 💗 </h1>
 <h4 align="center">
-Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++.She is eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects.
+Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++.She is eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects. 
 </h4>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=aening&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -23,11 +22,6 @@ Aifah Kate Catacutan is a first-year college student passionate about programmin
 - **Senior High School**: [SPCF](https://www.spcf.edu.ph/) - Information and Communication Technology 
 - **Junior High School**: [FGNMHS](https://www.facebook.com/fgnmhs92/) -Francisco G. Nepomuceno Memorial High School
 - **Elementary**:[DAMIS](https://www.facebook.com/DAMISOfficialPage) - Don Ambrocio Mendiola Integrated School
-
-
-<p align="center">
-  <img align="center" alt="gif" width="400" src="https://i.pinimg.com/originals/ad/ad/79/adad79ab8693e3f4d5866243ff3ef4f4.gif">
-</p>
 
 ## 📂 My Projects  
 - **Midterm Lab Task 1**: [Data Cleaning and Preparation using Excel](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%201)
