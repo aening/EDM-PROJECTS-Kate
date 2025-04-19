@@ -1,4 +1,4 @@
-![github-header-image (2)](https://github.com/user-attachments/assets/4132ae0d-e1a6-451f-b0c9-777373de0f0b)
+![image](https://github.com/user-attachments/assets/c07578f6-ca8f-48a2-b5d5-e5d83797bc8e)
 
 <h4 align="center">
 Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++.She is eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects. 
