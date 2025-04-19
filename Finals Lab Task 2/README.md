@@ -23,7 +23,6 @@ Follow these steps to implement the full database system using MySQL Workbench �
 
 ## SQL Copy of Database and Table Structures 💻📃
 
-
 To export:
 
 In MySQL Workbench:
