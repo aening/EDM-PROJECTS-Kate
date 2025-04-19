@@ -1,7 +1,5 @@
-<div align="center">
-  <img height="200" src="https://media.tenor.com/jLam8PP1bRoAAAAM/game-gamer.gif"  />
-</div>
-<h1 align="center"> Hi! 💗 I'm Aifah Kate Catacutan! 💗 </h1>
+![github-header-image (2)](https://github.com/user-attachments/assets/4132ae0d-e1a6-451f-b0c9-777373de0f0b)
+
 <h4 align="center">
 Aifah Kate Catacutan is a first-year college student passionate about programming and technology. She has experience in Java, C, and C++.She is eager to learn and grow, she enjoys solving complex problems and building creative solutions. Aifah aspires to become a data analyst and web developer, contributing to innovative and impactful projects. 
 </h4>
