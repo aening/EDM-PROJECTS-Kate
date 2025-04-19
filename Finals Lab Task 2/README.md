@@ -18,10 +18,19 @@ Follow these steps to implement the full database system using MySQL Workbench �
 ## Step 3: Create the `submission table`📝📥
 ![image](https://github.com/user-attachments/assets/6de5b63b-1e10-457d-b6d4-b70aaf808e10)
 
-## 📊 ER Diagrama 🔍💡
+## 📊 ER Diagram 🔍💡
 ![Task 2 ERD](https://github.com/user-attachments/assets/bfd1b3f6-2917-4403-879b-fcd77decce53)
 
-## 💻 SQL Copy of Database and Table Structures 📃🗂️
+## SQL Copy of Database and Table Structures 💻📃
+
+
+To export:
+
+In MySQL Workbench:
+Go to Server > Data Export > Export to Self-Contained File (.sql) and select only the structure option.
+
+📂 : [SQL COPY ⭐ ](https://github.com/aening/EDM-PROJECTS-Kate/blob/main/Finals%20Lab%20Task%202/finals.mwb) 
+
 
 
 
