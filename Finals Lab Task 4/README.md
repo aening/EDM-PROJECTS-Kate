@@ -37,6 +37,15 @@
 ### QUERY #4
 - Retrieve the total number of employees
   ![image](https://github.com/user-attachments/assets/66750823-479d-4c66-a60c-81b23a53248d)
+### 💾 SQL Copy of Database and Table Structures
+
+To export:
+
+In MySQL Workbench:
+Go to Server > Data Export > Export to Self-Contained File (.sql) and select only the structure option.
+
+📂 : [SQL COPY ⭐ ](https://github.com/aening/EDM-PROJECTS-Kate/blob/main/Finals%20Lab%20Task%203/Dump20250420%20(3).sql)
+
 
 
 
