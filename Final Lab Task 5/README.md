@@ -5,6 +5,7 @@
 ### 🔹 Task 1: Create a VIEW for 2002+ product entries 🗓️
 - 📌 View includes: vendors_code, vendors_name, product_description, p_indate
 - **✅ Filter: p_indate ≥ 2002**
+  
   ![image](https://github.com/user-attachments/assets/27d7af69-013a-416f-8eac-6e694cd8857a)
 ---
 ### 🔹 Task 2: Create a VIEW for products priced 💸 between 100–150
@@ -19,6 +20,7 @@
 ### 🔹 Task 4: Create a STORED PROCEDURE 🛠️
 - 📌 Task: Takes 1 parameter and updates vendor name
 - ✏️ From Bryson, Inc. ➡️ Bryson and Co
+  
 ![image](https://github.com/user-attachments/assets/36d51392-4b2d-41da-ab6e-a99adb8c316b)
 
 ### 🔹 Task 5: Create a FUNCTION with 2 parameters ⚙️
