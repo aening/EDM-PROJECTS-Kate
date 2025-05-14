@@ -30,7 +30,7 @@ Aifah Kate Catacutan is a first-year college student passionate about programmin
 -  **Finals Lab Task 2** : [Transforming ER Model to Relational Tables](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Finals%20Lab%20Task%202)
 -  **Finals Lab Task 3** : [Table Manipulation](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Finals%20Lab%20Task%203)
 -  **Finals Lab Task 4** : [Using SELECT Statement](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Finals%20Lab%20Task%204)
--  **Finals Lab Task 5** : [Using SELECT Statement](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Finals%20Lab%20Task%204)
+-  **Finals Lab Task 5** : [Using SELECT Statement](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Final%20Lab%20Task%205)
 
 
 ## 📬 Connect with Me  
