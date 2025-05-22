@@ -26,11 +26,11 @@ Aifah Kate Catacutan is a first-year college student passionate about programmin
 - **Midterm Lab Task 1**: [Data Cleaning and Preparation using Excel](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%201)
 - **Midterm Lab Task 2**: [Data Cleaning and Transformation using Power Query Editor](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%202)
 - **Midterm Lab Task 3**: [Using Pivot Table and Create Dashboard](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Midterm%20Lab%20Task%203)
--  **Finals Lab Task 1**: [MySQL Basics](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Finals%20Lab%20Task%201%20)
--  **Finals Lab Task 2** : [Transforming ER Model to Relational Tables](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Finals%20Lab%20Task%202)
--  **Finals Lab Task 3** : [Table Manipulation](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Finals%20Lab%20Task%203)
--  **Finals Lab Task 4** : [Using SELECT Statement](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Finals%20Lab%20Task%204)
--  **Finals Lab Task 5** : [Using Stored PRocedures Views and Function](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Final%20Lab%20Task%205)
+- **Finals Lab Task 1**: [MySQL Basics](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Finals%20Lab%20Task%201%20)
+- **Finals Lab Task 2** : [Transforming ER Model to Relational Tables](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Finals%20Lab%20Task%202)
+- **Finals Lab Task 3** : [Table Manipulation](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Finals%20Lab%20Task%203)
+- **Finals Lab Task 4** : [Using SELECT Statement](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Finals%20Lab%20Task%204)
+- **Finals Lab Task 5** : [Using Stored PRocedures Views and Function](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Final%20Lab%20Task%205)
 - **Finals Lab Task 6** : [MongoDB Practice](https://github.com/aening/EDM-PROJECTS-Kate/tree/main/Finals%20Lab%20Task%206)
 
 ## 📬 Connect with Me  
